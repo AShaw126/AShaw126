@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AShaw126
-- 👀 I’m interested in learning how to code using visual scripting. 
-- 🌱 I’m currently learning games technology in college. This includes using Unreal Engine. 
+- 👀 I’m interested in learning how to code using visual scripting and level design. 
+- 🌱 I’m currently studying games design at university. 
 - 📫 How to reach me: alexklshaw@gmail.com
 
 <!---
